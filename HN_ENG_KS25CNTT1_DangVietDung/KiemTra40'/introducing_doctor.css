@@ -1,0 +1,58 @@
+body {
+    background-color: #fff7ed;
+    font-family: cursive;
+    color: #6b2f0b;
+    user-select: none;
+    font-size: 14px;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    background-color: #fde68a;
+    font-size: 30px;
+    color: #78350f;
+}
+
+header .nav {
+    background-color: #fed7aa;
+}
+
+header .nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #92400e;
+}
+
+.wrapper {
+    text-align: center;
+    padding-top: 20px;
+}
+
+section {
+    background-color: white;
+}
+
+section h2 {
+    color: #92400e;
+    font-size: 24px;
+}
+
+footer {
+    background-color: #78350f;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+ol li:hover {
+    background-color: #78350f;
+    color: yellow;
+}
+
+.nav a:hover {
+    background-color: brown;
+    color: white;
+}
